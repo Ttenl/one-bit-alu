@@ -4,15 +4,7 @@ A C++ simulation of a one-bit arithmetic logic unit. It builds logic gates from 
 
 ## Build and run
 
-Use a C++17 compiler and CMake 3.16 or later. Run these commands from the repository root.
-
-```sh
-cmake -S . -B build
-cmake --build build
-./build/one_bit_alu
-```
-
-In CLion, open the repository folder and run `one_bit_alu`.
+Use a C++17 compiler and CMake 3.16 or later.
 
 ## Operation modes
 
